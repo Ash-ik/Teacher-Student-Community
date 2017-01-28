@@ -1,0 +1,58 @@
+﻿body {
+    background-image:url('background.png');
+    height: 294px;
+    font-family:'Comic Sans MS';
+}
+
+#headerMenu {
+    padding:40px;
+    font-family:'Comic Sans MS';
+    font-size:xx-large;
+    color:black;
+}
+
+#details {
+    margin-top:30px;
+    /*background-color:wheat;*/
+}
+
+#registrationForm {
+    font-family:'Comic Sans MS';
+        margin-top: 20px;
+        margin-left: 500px;
+        padding-bottom: 30px;
+        background: #f1f1f1;
+        width: 600px;
+    }
+
+#captionLabel {
+        font-size: 20px;
+        padding-top: 10px;
+        margin-left: 130px;
+    }
+
+#inputPlace {
+        padding: 10px;
+        margin-left: -35px;
+    }
+
+#alertMesseges {
+        margin-top: 60px;
+        margin-left: 300px;
+    }
+#uploadPic 
+{
+    padding:20px;
+}
+#inputAbout 
+{
+    margin-left:-130px;
+}
+#submitButton 
+{
+    margin-left:220px;
+    margin-top:40px;
+}
+#profileMenu 
+{
+}
